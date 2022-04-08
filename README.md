@@ -1,4 +1,4 @@
-# desarrollo-frameworks-vue con Bootstrap vue
+# Desarrollo de frameworks vue / Bootstrap vue
 
 https://framework-bootstrap-vue.herokuapp.com/
 
